@@ -8,10 +8,10 @@ const RightComponent = () => {
       {/* top container */}
       <div className="bg-[#0000FF] h-[70%]  rounded-2xl text-white flex text-center md:mx-4">
         <div className=" flex flex-col md:ml-[10px] mx-4 my-8">
-          <h2 className="w-60 leading-8 font-semibold text-[1.40rem] md:mx-20 mx-12">
+          <h2 className="max-w-60 leading-8 font-semibold text-[1.40rem] md:mx-20 mx-12">
             Get Started with KoinX for FREE
           </h2>
-          <p className="w-80 mt-[1.50rem] md:mx-12 mx-3 text-[0.80rem] font-[400] leading-6">
+          <p className="max-w-80 mt-[1.50rem] md:mx-[10%] mx-3 text-[0.80rem] font-[400] leading-6">
             with our wide range of features that you can equip for free, KoinX
             allows you to be more educated and aware of your tax reports
           </p>
