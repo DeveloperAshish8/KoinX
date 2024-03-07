@@ -7,7 +7,7 @@ const RightComponent = () => {
     <div className="flex flex-col sm:block ml-1 md:ml-0">
       {/* top container */}
       <div className="bg-[#0000FF] h-[70%]  rounded-2xl text-white flex text-center md:mx-4">
-        <div className=" flex flex-col md:mx-8 mx-4 my-8">
+        <div className=" flex flex-col md:ml-[10px] mx-4 my-8">
           <h2 className="w-60 leading-8 font-semibold text-[1.40rem] md:mx-20 mx-12">
             Get Started with KoinX for FREE
           </h2>
